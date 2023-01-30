@@ -1,0 +1,7 @@
+C:\Users\jefta\source\repos\ECE2310_Hw05\ECE2310_Hw05\bin\Debug\ECE2310_Hw05.exe.config
+C:\Users\jefta\source\repos\ECE2310_Hw05\ECE2310_Hw05\bin\Debug\ECE2310_Hw05.exe
+C:\Users\jefta\source\repos\ECE2310_Hw05\ECE2310_Hw05\bin\Debug\ECE2310_Hw05.pdb
+C:\Users\jefta\source\repos\ECE2310_Hw05\ECE2310_Hw05\obj\Debug\ECE2310_Hw05.csproj.AssemblyReference.cache
+C:\Users\jefta\source\repos\ECE2310_Hw05\ECE2310_Hw05\obj\Debug\ECE2310_Hw05.csproj.CoreCompileInputs.cache
+C:\Users\jefta\source\repos\ECE2310_Hw05\ECE2310_Hw05\obj\Debug\ECE2310_Hw05.exe
+C:\Users\jefta\source\repos\ECE2310_Hw05\ECE2310_Hw05\obj\Debug\ECE2310_Hw05.pdb

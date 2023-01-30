@@ -1,0 +1,7 @@
+C:\Users\jefta\source\repos\ECE2310_Final Exam\ECE2310_Final Exam\obj\Debug\ECE2310_Final Exam.csproj.AssemblyReference.cache
+C:\Users\jefta\source\repos\ECE2310_Final Exam\ECE2310_Final Exam\obj\Debug\ECE2310_Final Exam.csproj.CoreCompileInputs.cache
+C:\Users\jefta\source\repos\ECE2310_Final Exam\ECE2310_Final Exam\bin\Debug\ECE2310_Final Exam.exe.config
+C:\Users\jefta\source\repos\ECE2310_Final Exam\ECE2310_Final Exam\bin\Debug\ECE2310_Final Exam.exe
+C:\Users\jefta\source\repos\ECE2310_Final Exam\ECE2310_Final Exam\bin\Debug\ECE2310_Final Exam.pdb
+C:\Users\jefta\source\repos\ECE2310_Final Exam\ECE2310_Final Exam\obj\Debug\ECE2310_Final Exam.exe
+C:\Users\jefta\source\repos\ECE2310_Final Exam\ECE2310_Final Exam\obj\Debug\ECE2310_Final Exam.pdb

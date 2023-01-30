@@ -1,0 +1,7 @@
+C:\Users\jefta\source\repos\ECE2310_Midterm_PartA\ECE2310_Midterm_PartA\bin\Debug\ECE2310_Midterm_PartA.exe.config
+C:\Users\jefta\source\repos\ECE2310_Midterm_PartA\ECE2310_Midterm_PartA\bin\Debug\ECE2310_Midterm_PartA.exe
+C:\Users\jefta\source\repos\ECE2310_Midterm_PartA\ECE2310_Midterm_PartA\bin\Debug\ECE2310_Midterm_PartA.pdb
+C:\Users\jefta\source\repos\ECE2310_Midterm_PartA\ECE2310_Midterm_PartA\obj\Debug\ECE2310_Midterm_PartA.csproj.AssemblyReference.cache
+C:\Users\jefta\source\repos\ECE2310_Midterm_PartA\ECE2310_Midterm_PartA\obj\Debug\ECE2310_Midterm_PartA.csproj.CoreCompileInputs.cache
+C:\Users\jefta\source\repos\ECE2310_Midterm_PartA\ECE2310_Midterm_PartA\obj\Debug\ECE2310_Midterm_PartA.exe
+C:\Users\jefta\source\repos\ECE2310_Midterm_PartA\ECE2310_Midterm_PartA\obj\Debug\ECE2310_Midterm_PartA.pdb

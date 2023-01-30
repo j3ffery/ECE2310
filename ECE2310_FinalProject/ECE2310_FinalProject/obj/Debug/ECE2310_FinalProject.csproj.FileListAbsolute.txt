@@ -1,0 +1,7 @@
+C:\Users\jefta\source\repos\ECE2310_FinalProject\ECE2310_FinalProject\bin\Debug\ECE2310_FinalProject.exe.config
+C:\Users\jefta\source\repos\ECE2310_FinalProject\ECE2310_FinalProject\bin\Debug\ECE2310_FinalProject.exe
+C:\Users\jefta\source\repos\ECE2310_FinalProject\ECE2310_FinalProject\bin\Debug\ECE2310_FinalProject.pdb
+C:\Users\jefta\source\repos\ECE2310_FinalProject\ECE2310_FinalProject\obj\Debug\ECE2310_FinalProject.csproj.AssemblyReference.cache
+C:\Users\jefta\source\repos\ECE2310_FinalProject\ECE2310_FinalProject\obj\Debug\ECE2310_FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\jefta\source\repos\ECE2310_FinalProject\ECE2310_FinalProject\obj\Debug\ECE2310_FinalProject.exe
+C:\Users\jefta\source\repos\ECE2310_FinalProject\ECE2310_FinalProject\obj\Debug\ECE2310_FinalProject.pdb

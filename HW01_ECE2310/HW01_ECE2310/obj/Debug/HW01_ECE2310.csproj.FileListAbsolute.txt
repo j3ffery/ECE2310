@@ -1,0 +1,7 @@
+C:\Users\jefta\source\repos\School\C#\HW01_ECE2310\HW01_ECE2310\bin\Debug\HW01_ECE2310.exe.config
+C:\Users\jefta\source\repos\School\C#\HW01_ECE2310\HW01_ECE2310\bin\Debug\HW01_ECE2310.exe
+C:\Users\jefta\source\repos\School\C#\HW01_ECE2310\HW01_ECE2310\bin\Debug\HW01_ECE2310.pdb
+C:\Users\jefta\source\repos\School\C#\HW01_ECE2310\HW01_ECE2310\obj\Debug\HW01_ECE2310.csproj.AssemblyReference.cache
+C:\Users\jefta\source\repos\School\C#\HW01_ECE2310\HW01_ECE2310\obj\Debug\HW01_ECE2310.csproj.CoreCompileInputs.cache
+C:\Users\jefta\source\repos\School\C#\HW01_ECE2310\HW01_ECE2310\obj\Debug\HW01_ECE2310.exe
+C:\Users\jefta\source\repos\School\C#\HW01_ECE2310\HW01_ECE2310\obj\Debug\HW01_ECE2310.pdb

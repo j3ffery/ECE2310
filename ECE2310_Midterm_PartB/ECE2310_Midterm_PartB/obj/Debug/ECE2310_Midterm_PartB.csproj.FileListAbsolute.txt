@@ -1,0 +1,10 @@
+C:\Users\jefta\source\repos\ECE2310_Midterm_PartB\ECE2310_Midterm_PartB\obj\Debug\ECE2310_Midterm_PartB.csproj.AssemblyReference.cache
+C:\Users\jefta\source\repos\ECE2310_Midterm_PartB\ECE2310_Midterm_PartB\obj\Debug\ECE2310_Midterm_PartB.Form1.resources
+C:\Users\jefta\source\repos\ECE2310_Midterm_PartB\ECE2310_Midterm_PartB\obj\Debug\ECE2310_Midterm_PartB.Properties.Resources.resources
+C:\Users\jefta\source\repos\ECE2310_Midterm_PartB\ECE2310_Midterm_PartB\obj\Debug\ECE2310_Midterm_PartB.csproj.GenerateResource.cache
+C:\Users\jefta\source\repos\ECE2310_Midterm_PartB\ECE2310_Midterm_PartB\obj\Debug\ECE2310_Midterm_PartB.csproj.CoreCompileInputs.cache
+C:\Users\jefta\source\repos\ECE2310_Midterm_PartB\ECE2310_Midterm_PartB\bin\Debug\ECE2310_Midterm_PartB.exe.config
+C:\Users\jefta\source\repos\ECE2310_Midterm_PartB\ECE2310_Midterm_PartB\bin\Debug\ECE2310_Midterm_PartB.exe
+C:\Users\jefta\source\repos\ECE2310_Midterm_PartB\ECE2310_Midterm_PartB\bin\Debug\ECE2310_Midterm_PartB.pdb
+C:\Users\jefta\source\repos\ECE2310_Midterm_PartB\ECE2310_Midterm_PartB\obj\Debug\ECE2310_Midterm_PartB.exe
+C:\Users\jefta\source\repos\ECE2310_Midterm_PartB\ECE2310_Midterm_PartB\obj\Debug\ECE2310_Midterm_PartB.pdb

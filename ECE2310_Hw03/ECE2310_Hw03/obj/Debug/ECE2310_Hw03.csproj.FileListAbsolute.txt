@@ -1,0 +1,10 @@
+C:\Users\jefta\source\repos\ECE2310_Hw03\ECE2310_Hw03\bin\Debug\ECE2310_Hw03.exe.config
+C:\Users\jefta\source\repos\ECE2310_Hw03\ECE2310_Hw03\bin\Debug\ECE2310_Hw03.exe
+C:\Users\jefta\source\repos\ECE2310_Hw03\ECE2310_Hw03\bin\Debug\ECE2310_Hw03.pdb
+C:\Users\jefta\source\repos\ECE2310_Hw03\ECE2310_Hw03\obj\Debug\ECE2310_Hw03.csproj.AssemblyReference.cache
+C:\Users\jefta\source\repos\ECE2310_Hw03\ECE2310_Hw03\obj\Debug\ECE2310_Hw03.Form1.resources
+C:\Users\jefta\source\repos\ECE2310_Hw03\ECE2310_Hw03\obj\Debug\ECE2310_Hw03.Properties.Resources.resources
+C:\Users\jefta\source\repos\ECE2310_Hw03\ECE2310_Hw03\obj\Debug\ECE2310_Hw03.csproj.GenerateResource.cache
+C:\Users\jefta\source\repos\ECE2310_Hw03\ECE2310_Hw03\obj\Debug\ECE2310_Hw03.csproj.CoreCompileInputs.cache
+C:\Users\jefta\source\repos\ECE2310_Hw03\ECE2310_Hw03\obj\Debug\ECE2310_Hw03.exe
+C:\Users\jefta\source\repos\ECE2310_Hw03\ECE2310_Hw03\obj\Debug\ECE2310_Hw03.pdb
